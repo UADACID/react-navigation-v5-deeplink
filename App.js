@@ -6,16 +6,18 @@
  * @flow strict-local
  */
 import 'react-native-gesture-handler';
-import React from 'react';
+import React, { useEffect } from 'react';
 import {
   View,
   Text,
   TouchableOpacity,
+  Linking,
 } from 'react-native';
 import { enableScreens } from 'react-native-screens';
 
 import { NavigationContainer, useLinkTo } from '@react-navigation/native';
 import { createNativeStackNavigator } from 'react-native-screens/native-stack';
+import { navigate, navigationRef, reset } from './extend_navigation';
 
 enableScreens()
 const Stack = createNativeStackNavigator()
@@ -32,7 +34,7 @@ const HomeScreen = () => {
 }
 
 const SettingScreen = (props) => {
-  console.log({ props })
+  // console.log({ props })
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       <Text>Setting Screen</Text>
@@ -41,7 +43,7 @@ const SettingScreen = (props) => {
 }
 
 const ProfileScreen = (props) => {
-  console.log({ props })
+  // console.log({ props })
   const token = props?.route?.params?.token || 'token not found'
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
@@ -68,13 +70,71 @@ const config = {
 };
 
 const linking = {
-  prefixes: ['http://www.example.com', 'example://'],
-  config
+  prefixes: ['http://www.example.com', 'example://'], // first index is for android & second index for ios
+  config,
+  // subscribe(listener) {
+  //   const onReceiveURL = ({ url }) => { 
+  //     console.log({ url })
+      
+  //     // return listener(url)
+  //   };
+
+  //   // Listen to incoming links from deep linking
+  //   Linking.addEventListener('url', onReceiveURL);
+
+  //   // console.log({ url })
+
+  //   // Listen to firebase push notifications
+  //   // const unsubscribeNotification = messaging().onNotificationOpenedApp(
+  //   //   (message) => {
+  //   //     const url = message.notification.url;
+  //   //     console.log({url})
+
+  //   //     if (url) {
+  //   //       // Any custom logic to check whether the URL needs to be handled
+  //   //       //...
+
+  //   //       // Call the listener to let React Navigation handle the URL
+  //   //       listener(url);
+  //   //     }
+  //   //   }
+  //   // );
+
+  //   return () => {
+  //     // Clean up the event listeners
+  //     Linking.removeEventListener('url', onReceiveURL);
+  //     // unsubscribeNotification();
+  //   };
+  // },
+  getStateFromPath(path, config) {
+    console.log({ path, config })
+    // navigate('Notfound')
+    reset({
+      index: 1,
+      routes: [{ name: 'Setting' },{ name: 'Profile' }],
+    })
+    // Return a state object here
+    // You can also reuse the default logic by importing `getStateFromPath` from `@react-navigation/native`
+  },
+  // getPathFromState(state, config) {
+  //   console.log({ state, config })
+  //   // Return a path string here
+  //   // You can also reuse the default logic by importing `getPathFromState` from `@react-navigation/native`
+  // },
 };
 
 const App = () => {
+
+  useEffect(() => {
+    const listener = Linking.addEventListener('url', onOpenUrl)
+    // return listener.removeEventListener('url', onOpenUrl)
+  }, [])
+
+  const onOpenUrl = value => {
+    console.log({ value })
+  }
   return (
-    <NavigationContainer linking={linking} fallback={<Text>Loading...</Text>}>
+    <NavigationContainer ref={navigationRef} linking={linking} fallback={<Text>Loading...</Text>}>
       <Stack.Navigator>
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="Setting" component={SettingScreen} />
