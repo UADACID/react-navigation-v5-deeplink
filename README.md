@@ -6,3 +6,7 @@
 
 [I'm an deeplink url](https://test-deep-link-tama.000webhostapp.com)
 
+
+corom deeplink
+[link 1](https://coromdevelop.page.link/xp8X)
+
