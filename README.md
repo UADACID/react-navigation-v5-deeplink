@@ -18,3 +18,5 @@ corom deeplink appsFlyer dev
 
 corom roomId dev
 [https://workle-develop-app.web.app/s/xmtD](https://workle-develop-app.web.app/s/xmtD)
+
+[https://workle-develop-app.onelink.m/1aBC/123ab45c?af_force_deeplink=true](https://workle-develop-app.onelink.m/1aBC/123ab45c?af_force_deeplink=true)
