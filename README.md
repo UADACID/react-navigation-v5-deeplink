@@ -20,3 +20,7 @@ corom roomId dev
 [https://workle-develop-app.web.app/s/xmtD](https://workle-develop-app.web.app/s/xmtD)
 
 [https://workle-develop-app.onelink.m/1aBC/123ab45c?af_force_deeplink=true](https://workle-develop-app.onelink.m/1aBC/123ab45c?af_force_deeplink=true)
+
+[https://link.corom.app/R8xR/ite014cg](https://link.corom.app/R8xR/ite014cg)
+
+[https://corom.app/mp/OMWvO](https://corom.app/mp/OMWvO)
