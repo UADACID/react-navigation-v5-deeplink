@@ -11,5 +11,5 @@ corom deeplink
 [link 1](https://coromdevelop.page.link/xp8X)
 
 corom deeplink appsFlyer
-[link 2](https://test.onelink.me/1234)
+[link 2](https://link.corom.app/R8xR/b28ld43f)
 
