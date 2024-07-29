@@ -13,3 +13,6 @@ corom deeplink
 corom deeplink appsFlyer
 [link 2](https://link.corom.app/R8xR/b28ld43f)
 
+corom deeplink appsFlyer dev
+[https://workle-develop-app.onelink.me/CEa0/my9t2fc8](https://workle-develop-app.onelink.me/CEa0/my9t2fc8)
+
