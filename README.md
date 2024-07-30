@@ -26,3 +26,9 @@ corom roomId dev
 [https://corom.app/mp/OMWvO](https://corom.app/mp/OMWvO)
 
 [https://workle-develop-app.onelink.me/CEa0/7sj4d3yq](https://workle-develop-app.onelink.me/CEa0/7sj4d3yq)
+
+
+
+link dev from onelink template "redirect_to_app_dev"
+
+[https://workle-develop-app.onelink.me/UD7g/0iq7s81u](https://workle-develop-app.onelink.me/UD7g/0iq7s81u)
