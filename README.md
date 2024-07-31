@@ -8,4 +8,3 @@
 
 [https://workle-develop-app.web.app/?roomId=sN10dYrazygxM4bMveTq](https://workle-develop-app.web.app/?roomId=sN10dYrazygxM4bMveTq)
 
-[https://coromdevelop.page.link/xp8X](https://coromdevelop.page.link/xp8X)
