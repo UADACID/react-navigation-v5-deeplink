@@ -16,3 +16,5 @@ open room detail
 
 [https://workle-develop-app.onelink.me/CEa0/sa75nsgu](https://workle-develop-app.onelink.me/CEa0/sa75nsgu)
 
+[appsFlyer long url](https://workle-develop-app.onelink.me/CEa0?af_xp=custom&pid=open-room-detail&deep_link_value=https%3A%2F%2Fworkle-develop-app.web.app%2F%3FroomId%3DsN10dYrazygxM4bMveTq&af_dp=coromdev%3A%2F%2F)
+
