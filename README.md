@@ -30,3 +30,5 @@ generated link by button 表示 from web corom
 
 
 [link verification email dev](https://workle-develop-app.web.app/verification?mode=verifyEmail&oobCode=etgytpcKPmtL9fMv87a1v3-rKsvlOKw6UDnAnTtlfRUAAAGRcu_IUw&apiKey=AIzaSyCQBDxivBKjDMydptiQGcEFREUAq1QaRw4&lang=ja)
+
+[link reset password](https://workle-develop-app.web.app/verification?mode=resetPassword&oobCode=eeCO12DTJAmAnaaMlvWBIpSPC6eE8YqpbOi2U80RFrcAAAGRczNjRg&apiKey=AIzaSyCQBDxivBKjDMydptiQGcEFREUAq1QaRw4&lang=ja)
