@@ -27,3 +27,6 @@ generated link by button 表示 from web corom
 
 
 [link appsFlyer prod](https://link.corom.app/R8xR/ite014cg)
+
+
+[link verification email dev](https://workle-develop-app.web.app/verification?mode=verifyEmail&oobCode=etgytpcKPmtL9fMv87a1v3-rKsvlOKw6UDnAnTtlfRUAAAGRcu_IUw&apiKey=AIzaSyCQBDxivBKjDMydptiQGcEFREUAq1QaRw4&lang=ja)
