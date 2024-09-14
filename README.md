@@ -41,3 +41,5 @@ generated link by button 表示 from web corom
 
 
 [https://workle-develop-app.web.app/share/nVOQL4ZxCc2lpReb0P5H](https://workle-develop-app.web.app/share/nVOQL4ZxCc2lpReb0P5H)
+
+[https://workle-develop-app.web.app/?ticketShareId=nVOQL4ZxCc2lpReb0P5H&source=github.com&medium=referral](https://workle-develop-app.web.app/?ticketShareId=nVOQL4ZxCc2lpReb0P5H&source=github.com&medium=referral)
