@@ -38,3 +38,6 @@ generated link by button 表示 from web corom
 [link reset password](https://workle-develop-app.web.app/verification?mode=resetPassword&oobCode=eeCO12DTJAmAnaaMlvWBIpSPC6eE8YqpbOi2U80RFrcAAAGRczNjRg&apiKey=AIzaSyCQBDxivBKjDMydptiQGcEFREUAq1QaRw4&lang=ja)
 
 [appsFlyer link to web](https://workle-develop-app.onelink.me/8r7g/irkt7940)
+
+
+[https://workle-develop-app.web.app/share/nVOQL4ZxCc2lpReb0P5H](https://workle-develop-app.web.app/share/nVOQL4ZxCc2lpReb0P5H)
