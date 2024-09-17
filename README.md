@@ -56,3 +56,5 @@ generated link by button 表示 from web corom
 [appsFlyer staging base url](https://workle-develop-app.onelink.me/Ewfk/l18g27mg)
 
 [claimed ticked url dev https://workle-develop-app.web.app/share/3eCZdvEP4eAf59GF1tIS](https://workle-develop-app.web.app/share/3eCZdvEP4eAf59GF1tIS)
+
+[https://workle-develop-app.web.app/mp/I0nvK](https://workle-develop-app.web.app/mp/I0nvK)
