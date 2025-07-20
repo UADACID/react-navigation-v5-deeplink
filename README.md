@@ -7,7 +7,7 @@
 
 [https://corom.app/mp/KUSgl](https://corom.app/mp/KUSgl)
 
-[https://corom.app/mp/OMWvO]([https://corom.app/mp/KUSgl](https://corom.app/mp/OMWvO))
+[https://corom.app/mp/OMWvO](https://corom.app/mp/OMWvO)
 
 
 [https://corom.app/share/SRXTQmHBRTKNFu7QqkNF](https://corom.app/share/SRXTQmHBRTKNFu7QqkNF)
