@@ -116,6 +116,8 @@ generated link by button 表示 from web corom
 
 [order cancel by driver](https://tetanggaku.co.id/yodu-success-payment/orderId=9c167269-5710-4776-ad27-cb8b85c8bbf0)
 
+[TTGK Open via schema](ttgk://detail?orderId=isN0MhcWS3NMYVQzTc6tis3ikPm2)
+
 [order cancel by consumer](https://tetanggaku.co.id/yodu-success-payment/orderId=3887262d-c342-4067-905f-d972bd8d1fff)
 
 [order no driver found](https://tetanggaku.co.id/yodu-success-payment/orderId=2cbbe51c-2175-4e20-977d-8e46df4d2243)
