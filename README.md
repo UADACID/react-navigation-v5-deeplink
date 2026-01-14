@@ -121,3 +121,5 @@ generated link by button 表示 from web corom
 [order cancel by consumer](https://tetanggaku.co.id/yodu-success-payment/orderId=3887262d-c342-4067-905f-d972bd8d1fff)
 
 [order no driver found](https://tetanggaku.co.id/yodu-success-payment/orderId=2cbbe51c-2175-4e20-977d-8e46df4d2243)
+
+[artist scratch detail](https://workle-develop-app.web.app/user/reLQgjPABVMTaYYrSE92BE96Yns1/scratch-list/LSS3jVelcY64eMCvt59b)
